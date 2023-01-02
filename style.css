@@ -1,0 +1,83 @@
+/*
+    Color:
+    white: #FFFFFFF
+    dark orange: #FF8C00;
+    light grey: #D3D3D3;
+    grey: #808080
+    black: #000000
+
+*/
+
+body {
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    color: #FFFFFF;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.text-logo {
+    font-size: 25px;
+    display: inline-block;
+    font-weight: 400;
+}
+
+.unread-text {
+    font-weight: 400;
+}
+
+#unread-count {
+    background-color: #FF8C00;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.row {
+    color: #000000;
+}
+
+.read {
+    background-color: #D3D3D3;
+}
+
+.unread {
+    background-color: #FFFFFF;
+}
+
+.row-left {
+    display: inline-block;
+    width: 30%;
+}
+
+.row-right {
+    display: inline-block;
+    width: 69%;
+}
+
+.favourite{
+    color: #000000;
+}
+
+.subject {
+    color: #000000;
+}
+
+.body {
+    color: #808080;
+}
+
+footer {
+    text-align: center;
+}
+
+#text-footer{
+    font-size: 25px;
+}
+
+#credit {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+}
